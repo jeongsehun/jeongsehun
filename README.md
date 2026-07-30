@@ -1,18 +1,11 @@
-### Hi, I'm Sehun Jeong 👋
+# Sehun Jeong
 
-I enjoy building useful services for people.
+Software engineer focused on building web and mobile products.
 
-My strength is web and app frontend, but I see technology as a tool for building valuable services, not a boundary. I like working across the product: finding problems, shaping UX, building features, and improving them with feedback. I also enjoy using AI to move from idea to product faster.
+I work mainly on frontend engineering, from shaping the product and user experience to shipping and operating it. When the product needs it, I also work with mobile apps and backend systems.
 
-#### Focus
+Currently building [LawTalk](https://www.lawtalk.co.kr/) with the Platform Squad at Law&Company.
 
-- Services that create value for users
-- Product thinking and UX
-- Web and app development
-- Readable, maintainable code
-- AI-assisted development
+React · TypeScript · Next.js · React Native · Node.js
 
-#### Contact
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/sehunjeong/)
-[![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:sehun.dev@gmail.com)
+[Website](https://jeongsehun.github.io/) · [LinkedIn](https://www.linkedin.com/in/sehunjeong/) · [Email](mailto:sehun.dev@gmail.com)
